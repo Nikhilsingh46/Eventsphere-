@@ -1,1 +1,1 @@
-# Eventsphere-
+# Eventsphere- event collaborative platform
